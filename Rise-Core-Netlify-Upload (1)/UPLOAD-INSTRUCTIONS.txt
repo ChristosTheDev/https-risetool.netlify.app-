@@ -1,0 +1,10 @@
+RISE CONTENT — READY NETLIFY UPLOAD
+
+1. Extract this ZIP.
+2. Open your existing Netlify project, then Deploys.
+3. Drop the extracted folder directly containing index.html into the deployment dropzone.
+4. Wait for Published, then open your site homepage.
+
+No local build command is needed. This upload includes the current query, URL and pasted-content interface.
+
+This package restores the frontend. It does not deploy server functions or finish the backend integration. The Connections screen explains server setup.
